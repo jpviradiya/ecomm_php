@@ -73,6 +73,47 @@
   </div>
   <!-- intro end -->
 
+  <!-- Brand Display start -->
+  <!-- <div class="container row mx-3">
+    <div class="col-md-1">
+      <img src="./img/logo.png" class="mr-3" alt="..." style="width:125px;height:125px;">
+    </div>
+    <div class="col-md-1">
+      <img src="./img/logo.png" class="mr-3" alt="..." style="width:125px;height:125px;">
+    </div>
+    <div class="col-md-1">
+      <img src="./img/logo.png" class="mr-3" alt="..." style="width:125px;height:125px;">
+    </div>
+    <div class="col-md-1">
+      <img src="./img/logo.png" class="mr-3" alt="..." style="width:125px;height:125px;">
+    </div>
+    <div class="col-md-1">
+      <img src="./img/logo.png" class="mr-3" alt="..." style="width:125px;height:125px;">
+    </div>
+    <div class="col-md-1">
+      <img src="./img/logo.png" class="mr-3" alt="..." style="width:125px;height:125px;">
+    </div>
+    <div class="col-md-1">
+      <img src="./img/logo.png" class="mr-3" alt="..." style="width:125px;height:125px;">
+    </div>
+    <div class="col-md-1">
+      <img src="./img/logo.png" class="mr-3" alt="..." style="width:125px;height:125px;">
+    </div>
+    <div class="col-md-1">
+      <img src="./img/logo.png" class="mr-3" alt="..." style="width:125px;height:125px;">
+    </div>
+    <div class="col-md-1">
+      <img src="./img/logo.png" class="mr-3" alt="..." style="width:125px;height:125px;">
+    </div>
+    <div class="col-md-1">
+      <img src="./img/logo.png" class="mr-3" alt="..." style="width:125px;height:125px;">
+    </div>
+    <div class="col-md-1">
+      <img src="./img/logo.png" class="mr-3" alt="..." style="width:125px;height:125px;">
+    </div>
+  </div> -->
+  <!-- Brand Display end -->
+
   <!-- product display start -->
   <div class="row justify-content-between mx-5 px-5 py-3">
     <div class="col-md-4 mb-3">
@@ -132,7 +173,7 @@
     </div>
     <div class="col-md-4 mb-3">
       <div class="card">
-        <img src="./img/iphone14promax.jpg" class="card-img-top" alt="...">
+        <img src="./img/localhost/project.jpg" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title">Card title</h5>
           <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
